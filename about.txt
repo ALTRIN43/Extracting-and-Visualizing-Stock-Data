@@ -1,0 +1,28 @@
+Tesla and GameStop Stock Revenue Analysis
+This project demonstrates how to extract and analyze financial data for Tesla and GameStop using Python. The key components of this project include:
+
+Data Extraction:
+
+Utilized the yfinance library to fetch historical stock prices for Tesla and GameStop.
+Used BeautifulSoup to scrape revenue data from financial websites.
+Data Processing:
+
+Cleaned and organized the extracted data into a structured format for analysis.
+Merged the stock price and revenue datasets for comprehensive insights.
+Analysis:
+
+Visualized trends in stock prices and revenues over time.
+Identified correlations and key patterns in the financial performance of Tesla and GameStop.
+Technologies Used:
+
+Python: Primary programming language for data handling and analysis.
+Libraries:
+yfinance: To retrieve historical stock data.
+BeautifulSoup: For web scraping revenue data.
+pandas: For data cleaning and manipulation.
+matplotlib/seaborn: For visualizing data trends.
+Key Learnings:
+
+Hands-on experience with extracting and integrating data from different sources.
+Strengthened skills in data cleaning, visualization, and financial analysis.
+This project showcases the ability to leverage Python libraries for real-world financial analysis tasks and provides a foundation for further exploration into stock market trends and insights.
